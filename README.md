@@ -1,0 +1,2 @@
+# CoreTraining
+.NET Core Course
